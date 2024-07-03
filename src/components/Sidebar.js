@@ -9,7 +9,7 @@ const Sidebar = () => {
    return (
       <>
 
-         <div className="sidebar  w-[7.5%] min-h-screen bg-[#1F1D2B] ">
+         <div className="sidebar  w-[7.5%] min-h-screen bg-[#1F1D2B] fixed left-0">
             <div className="sidebar-wrapper w-full flex justify-center h-full relative">
                <div className="text-white flex gap-14 flex-col mt-6">
                   <Logo width={40}/>

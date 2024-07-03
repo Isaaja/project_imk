@@ -1,12 +1,22 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-   content: ["./src/**/*.{js,jsx,ts,tsx}"],
-   theme: {
-      extend: {
-         fontFamily: {
-            barlow: "barlow",
-         },
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      fontFamily: {
+        barlow: "barlow",
       },
-   },
-   plugins: [require("daisyui")],
+    },
+  },
+
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          primary: "#EE4E4E",
+        },
+      },
+    ],
+  },
+  plugins: [require("daisyui")],
 };
