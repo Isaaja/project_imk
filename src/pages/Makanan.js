@@ -24,40 +24,40 @@ export default function Makanan() {
             <h1 className="font-barlow text-[24px] mt-4">Mie</h1>
 
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
-               <Card image={Mie_nyemek} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Pasta} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Mie_kuah} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Bihun_kuah} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Mie_nyemek} title={"Mie Nyemek"} desc={"IDR 15K"} />
+               <Card image={Pasta} title={"Pasta Macaroni Cheese"} desc={"IDR 18K"} />
+               <Card image={Mie_kuah} title={"Mie Kuah"} desc={"IDR 15K"} />
+               <Card image={Bihun_kuah} title={"Bihun Kuah"} desc={"IDR 15K"} />
                <Card
                   image={Kwetiaw_nyemek}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Kwetiaw Nyemek"}
+                  desc={"IDR 18K"}
                />
-               <Card image={Spagetti} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Mie_goreng} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Spagetti} title={"Spagetti"} desc={"IDR 18K"} />
+               <Card image={Mie_goreng} title={"Mie Goreng"} desc={"IDR 15K"} />
             </div>
             <h1 className="mt-8 font-barlow text-[24px]">Nasi</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
-               <Card image={Nasi_goreng} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Nasi_goreng} title={"Nasi Goreng"} desc={"IDR 15K"} />
                <Card
                   image={Nasi_goreng_lombok_ijo}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Nasi Goreng Lombok Ijo"}
+                  desc={"IDR 18K"}
                />
-               <Card image={Nasi_putih} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Nasi_putih} title={"Nasi Putih"} desc={"IDR 5K"} />
             </div>
             <h1 className="mt-8 font-barlow text-[24px]">Ayam</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
-               <Card image={Ayam_krispi} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Ayam_krispi} title={"Ayam Krispi"} desc={"IDR 20K"} />
                <Card
                   image={Ayam_goremg}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Ayam Goreng"}
+                  desc={"IDR 20K"}
                />
-               <Card image={Chicken_steak} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Chicken_katsu} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Ceker_Setan} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Sayap_setan} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Chicken_steak} title={"Chicken Steak"} desc={"IDR 20K"} />
+               <Card image={Chicken_katsu} title={"Chicken Katsu"} desc={"IDR 20K"} />
+               <Card image={Ceker_Setan} title={"Ceker Setan"} desc={"IDR 15K"} />
+               <Card image={Sayap_setan} title={"Sayap Setan"} desc={"IDR 18K"} />
             </div>
          </div>
       </>

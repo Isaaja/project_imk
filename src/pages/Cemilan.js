@@ -25,40 +25,40 @@ export default function Cemilan() {
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
                <Card
                   image={KentangGoreng}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Kentang Goreng"}
+                  desc={"IDR 10K"}
                />
-               <Card image={Nugget} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={SosilKecil} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={SosisBesar} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Nugget} title={"Nugget"} desc={"IDR 10K"} />
+               <Card image={SosilKecil} title={"Sosis Kecil"} desc={"IDR 10K"} />
+               <Card image={SosisBesar} title={"Sosis Besar"} desc={"IDR 15K"} />
                <Card
                   image={TeloKrispiCokju}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Telo Krispi Cokju"}
+                  desc={"IDR 10K"}
                />
                <Card
                   image={TeloKrispiOri}
-                  title={"Kopi Aidas"}
+                  title={"Telo Krispi Ori"}
                   desc={"IDR 8K"}
                />
                <Card
                   image={PisangKrispi}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Pisang Krispi"}
+                  desc={"IDR 12K"}
                />
-               <Card image={PisangBakar} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={PisangBakar} title={"Pisang Bakar"} desc={"IDR 12K"} />
                <Card
                   image={PisangGulungCoklat}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Pisang GUlung Coklat"}
+                  desc={"IDR 15K"}
                />
-               <Card image={Piscok} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={MendoanTahu} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Bakwan} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Cireng} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={OnionRing} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={RotiBakar} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={RotiMaryam} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Piscok} title={"Piscok"} desc={"IDR 10K"} />
+               <Card image={MendoanTahu} title={"Mendoan Tahu / Tempe"} desc={"IDR 8K"} />
+               <Card image={Bakwan} title={"Bakwan Sayur / Jagung"} desc={"IDR 8K"} />
+               <Card image={Cireng} title={"Cireng"} desc={"IDR 10K"} />
+               <Card image={OnionRing} title={"Onion Ring"} desc={"IDR 15K"} />
+               <Card image={RotiBakar} title={"Roti Bakar"} desc={"IDR 15K"} />
+               <Card image={RotiMaryam} title={"Roti Maryam"} desc={"IDR 15K"} />
             </div>
          </div>
       </>

@@ -33,78 +33,78 @@ export default function Minuman() {
             <h1 className="font-bold font-barlow text-[30px] ">Minuman</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
                <Card image={Kopi_aidas} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Kopi_jolong} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Kopi_susu} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Kopi_hitam} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Wedang_jahe} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Kopi_jolong} title={"Kopi Jolong"} desc={"IDR 8K"} />
+               <Card image={Kopi_susu} title={"Kopi Susu"} desc={"IDR 10K"} />
+               <Card image={Kopi_hitam} title={"Kopi Hitam"} desc={"IDR 8K"} />
+               <Card image={Wedang_jahe} title={"Wedang Jahe Gula Merah"} desc={"IDR 8K"} />
                <Card
                   image={Wedang_jahesusu}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Wedang Jahe Susu"}
+                  desc={"IDR 10K"}
                />
                <Card
                   image={Wedang_rotisusu}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Wedang Roti Susu"}
+                  desc={"IDR 15K"}
                />
-               <Card image={Teh} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Jeruk} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Teh} title={"Teh"} desc={"IDR 5K"} />
+               <Card image={Jeruk} title={"Jeruk"} desc={"IDR 8K"} />
             </div>
             <h1 className="mt-8 font-barlow text-[24px]">Jus</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
-               <Card image={Jus_alpukat} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Jus_alpukat} title={"Jus Alpukat"} desc={"IDR 12K"} />
                <Card
                   image={Jus_buahnaga}
                   title={"Kopi Aidas"}
                   desc={"IDR 8K"}
                />
-               <Card image={Jus_jambu} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Jus_jeruk} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Jus_melon} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Jus_jambu} title={"Jus Jambu"} desc={"IDR 10K"} />
+               <Card image={Jus_jeruk} title={"Jus Jeruk"} desc={"IDR 10K"} />
+               <Card image={Jus_melon} title={"Jus Melon"} desc={"IDR 10K"} />
                <Card
                   image={Jus_stroberi}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Jus Stroberi"}
+                  desc={"IDR 10K"}
                />
             </div>
             <h1 className="mt-8 font-barlow text-[24px]">Shake</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
                <Card
                   image={Shake_alpukat}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Alpukat MilkShake"}
+                  desc={"IDR 15K"}
                />
                <Card
                   image={Shake_banana}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Pisang MilkShake"}
+                  desc={"IDR 15K"}
                />
-               <Card image={Shake_melon} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Shake_milo} title={"Kopi Aidas"} desc={"IDR 8K"} />
-               <Card image={Shake_oreo} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Shake_melon} title={"Melon MilkShake"} desc={"IDR 15K"} />
+               <Card image={Shake_milo} title={"Milo MilkShake"} desc={"IDR 15K"} />
+               <Card image={Shake_oreo} title={"Oreo MilkShake"} desc={"IDR 15K"} />
                <Card
                   image={Shake_stroberi}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Stroberi MilkShake"}
+                  desc={"IDR 15K"}
                />
             </div>
             <h1 className="mt-8 font-barlow text-[24px]">Squash</h1>
             <div className="makanan-wrapper mt-20 flex flex-wrap gap-44 justify-start">
-               <Card image={Squash_leci} title={"Kopi Aidas"} desc={"IDR 8K"} />
+               <Card image={Squash_leci} title={"Yakult Leci"} desc={"IDR 15K"} />
                <Card
                   image={Squash_manggo}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Manggo Leci"}
+                  desc={"IDR 15K"}
                />
                <Card
                   image={Squash_orange}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Yakult Orange"}
+                  desc={"IDR 15K"}
                />
                <Card
                   image={Squash_strawberry}
-                  title={"Kopi Aidas"}
-                  desc={"IDR 8K"}
+                  title={"Yakult Strawberry"}
+                  desc={"IDR 15K"}
                />
             </div>
          </div>

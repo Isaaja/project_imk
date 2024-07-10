@@ -20,6 +20,18 @@
   font-weight: 500;
 }
 
+@font-face {
+  font-family: "bubble";
+  src: url(./assets/fonts/Bubble/BubblegumSans-Regular.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "buda";
+  src: url(./assets/fonts/Buda/Buda-Light.ttf);
+  font-weight: 500;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
