@@ -38,8 +38,8 @@ export default function Dashboard() {
                      D'AIDAS CAFE
                   </h1>
                   <p className="text-4xl font-['buda']">
-                     Neque porro quisquam est qui dolorem ipsum quia dolor sit
-                     amet, consectetur, adipisci velit...
+                     Gg. Pakel, Plangitan, Kec. Pati, Kabupaten Pati, Jawa
+                     Tengah 59113
                   </p>
                   <button
                      className="mt-6 bg-[#D9D9D9] font-['buda'] rounded-2xl h-[37px] w-[150px] text-xl text-black flex justify-center items-center mx-auto"
@@ -60,12 +60,13 @@ export default function Dashboard() {
                         <div>
                            <h1 className="text-4xl">D'Aidas Cafe</h1>
                            <p className="font-normal leading-loose text-2xl">
-                              Jln asdasdas
+                              Gg. Pakel, Plangitan, Kec. Pati, Kabupaten Pati,
+                              Jawa Tengah 59113
                            </p>
                         </div>
                         <div className="relative form-control text-black">
                            <Search
-                              className="absolute left-3 top-1/2 transform -translate-y-1/2"
+                              className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary"
                               width={24}
                               height={24}
                            />
